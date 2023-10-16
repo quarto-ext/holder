@@ -1,0 +1,38 @@
+---
+title: "Holder Examples"
+---
+
+::: {layout-ncol="2"}
+
+
+```{shortcodes="false"}
+{{< holder 300x100 >}}
+```
+
+{{< holder 300x100 >}}
+
+```{shortcodes="false"}
+{{< holder 300x100 "hello" >}}
+```
+
+{{< holder 300x100 "hello" >}}
+
+```{shortcodes="false"}
+{{< holder 300x100 outline="yes" >}}
+```
+
+{{< holder 300x100 outline="yes" >}}
+
+```{shortcodes="false"}
+{{< holder 300x100 align="left" >}}
+```
+
+{{< holder 300x100 align="left" >}}
+
+```{shortcodes="false"}
+{{< holder 300x100 theme="vine" >}}
+```
+
+{{< holder 300x100 theme="vine" >}}
+
+:::
