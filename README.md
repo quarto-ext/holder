@@ -28,3 +28,7 @@ You can also include holder.js options (e.g. `theme`, `bg`, `align`, etc.):
 ```
 
 See the documention on Holder [placeholder options](https://github.com/imsky/holder#placeholder-options) for the details and usage of various options.
+
+## Examples
+
+This page includes some examples that demonstrate various holder options: <https://quarto-ext.github.io/holder/>.
