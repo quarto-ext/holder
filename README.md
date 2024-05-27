@@ -1,6 +1,8 @@
 # Holder Extension For Quarto
 
-Quarto extension to create placholder images (based on <https://github.com/imsky/holder>).
+Quarto extension to create placeholder images (based on <https://github.com/imsky/holder>).
+
+> Quarto 1.5 will include a built in placeholder shortcode which should work in most output format: https://prerelease.quarto.org/docs/authoring/placeholder.html
 
 ## Installing
 
@@ -27,7 +29,7 @@ You can also include holder.js options (e.g. `theme`, `bg`, `align`, etc.):
 {{< holder 300x300 "hello" align="left" >}}
 ```
 
-See the documention on Holder [placeholder options](https://github.com/imsky/holder#placeholder-options) for the details and usage of various options.
+See the documentation on Holder [placeholder options](https://github.com/imsky/holder#placeholder-options) for the details and usage of various options.
 
 ## Examples
 
